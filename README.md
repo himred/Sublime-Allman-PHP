@@ -8,6 +8,11 @@ according to [Allman Coding Standards](http://en.wikipedia.org/wiki/Indent_style
 - Use the sublime package manager and search for Allman PHP
 - Or download the [zip](https://github.com/himred/Sublime-Allman-PHP/archive/master.zip) to your Sublime Text 2 or 3 `Packages` directory.
 
+
+## Requirements
+ - PHP must be installed on your computer and the php executable must be in your PATH.
+
+
 ## Usage
 
 AllmanPHP can be accessed from:

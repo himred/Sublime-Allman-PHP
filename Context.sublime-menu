@@ -1,0 +1,7 @@
+[
+	{
+		"id": "AllManPHP",
+		"caption": "Format Allman Style",
+		"command": "allman_php"
+	}
+]
